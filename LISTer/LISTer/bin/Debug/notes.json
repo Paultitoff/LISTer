@@ -1,0 +1,26 @@
+[
+  {
+    "Text": "закончить документацию word",
+    "DueDate": "2024-12-18T03:00:00",
+    "IsCompleted": false,
+    "BackgroundColor": "#ff9c9c",
+    "TextDecoration": null,
+    "RemainingTime": "Срок истёк"
+  },
+  {
+    "Text": "закончить проект",
+    "DueDate": "2024-12-18T23:55:00",
+    "IsCompleted": true,
+    "BackgroundColor": "#d9d9d9",
+    "TextDecoration": null,
+    "RemainingTime": "0д 14ч 44мин"
+  },
+  {
+    "Text": "привести себя в порядок",
+    "DueDate": "2024-12-21T12:10:00",
+    "IsCompleted": false,
+    "BackgroundColor": "#d9d9d9",
+    "TextDecoration": null,
+    "RemainingTime": "3д 2ч 59мин"
+  }
+]
